@@ -1,0 +1,9 @@
+Record=TopLevelDocument|FileName=BLOCO_ALIMENTA플O.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=BLOCO_ALIMENTA플O.SchDoc|Designator=U_REG_CHAV_5V_3A_ST1S40IDR|SchDesignator=U_REG_CHAV_5V_3A_ST1S40IDR|FileName=REG_CHAV_5V_3A_ST1S40IDR.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=REG_CHAV_5V_3A_ST1S40IDR.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BLOCO_ALIMENTA플O.SchDoc|Designator=U_REG_LIN_3V3_1A_TPS78533|SchDesignator=U_REG_LIN_3V3_1A_TPS78533|FileName=REG_LIN_3V3_1A_TPS78533.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=REG_LIN_3V3_1A_TPS78533.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BLOCO_ALIMENTA플O.SchDoc|Designator=U_USB4105|SchDesignator=U_USB4105|FileName=USB4105.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=USB4105.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=BLOCO_ALIMENTA플O.SchDoc|FileName=ADF7020BCPZ-RL.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=BLOCO_ALIMENTA플O.SchDoc|FileName=BLOCO_PROCESSAMENTO.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=BLOCO_ALIMENTA플O.SchDoc|FileName=LSM6DSOTR.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=BLOCO_ALIMENTA플O.SchDoc|FileName=MLX90393SLQ.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=BLOCO_ALIMENTA플O.SchDoc|FileName=STM32L412CBT6.SchDoc|SheetNumber=6
