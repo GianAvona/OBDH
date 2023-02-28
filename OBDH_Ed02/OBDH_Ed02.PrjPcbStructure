@@ -1,3 +1,4 @@
 Record=TopLevelDocument|FileName=Arquitetura_Geral.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Arquitetura_Geral.SchDoc|FileName=KH-TYPE-C-16P.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Arquitetura_Geral.SchDoc|FileName=ST1S40IDR.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Arquitetura_Geral.SchDoc|FileName=KH-TYPE-C-16P.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Arquitetura_Geral.SchDoc|FileName=ST1S40IDR.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Arquitetura_Geral.SchDoc|FileName=STM32L412CBU6.SchDoc|SheetNumber=3
