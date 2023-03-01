@@ -134,6 +134,23 @@ GenerateClassCluster=0
 DocumentUniqueId=EXMGXJOY
 
 [Document6]
+DocumentPath=SCH\CC1101RGPR.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GFUGCOMV
+
+[Document7]
 DocumentPath=PCB\OBDH_Ed02.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ONSOHLJF
 
-[Document7]
+[Document8]
 DocumentPath=Bibliotecas\OBDH_Ed02.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
