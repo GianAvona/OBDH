@@ -1,0 +1,614 @@
+Added Component: Designator=C1(0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL21A226MPQNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "OBDH_Ed02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "22uF 10V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL21B225KAFNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "OBDH_Ed02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "2.2uF 10V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805KRX7R6BB224"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "OBDH_Ed02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "0.22uF 10V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805JRNPO9BN101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "OBDH_Ed02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "100pF 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805JRNPO9BN101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "OBDH_Ed02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "100pF 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805JRNPO9BN101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "OBDH_Ed02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "100pF 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805JRNPO9BN101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "OBDH_Ed02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "100pF 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAP_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805JRNPO9BN101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "OBDH_Ed02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "100pF 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAP_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805JRNPO9BN101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "OBDH_Ed02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "100pF 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAP_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805JRNPO9BN101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "OBDH_Ed02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "100pF 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAP_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805JRNPO9BN101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "OBDH_Ed02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "100pF 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAP_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805JRNPO9BN101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "OBDH_Ed02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "100pF 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAP_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL05B104KO5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "OBDH_Ed02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "0.1uF 16V"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAP_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805JRNPO9BN101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "OBDH_Ed02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "100pF 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C17(CAP_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805JRNPO9BN101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "OBDH_Ed02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "100pF 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C18(CAP 0402)
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM1555C1H100FA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "10pF"; VariantName = "[No Variations]"
+Added Component: Designator=C19(CAP 0402)
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM1555C1H100FA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "10pF"; VariantName = "[No Variations]"
+Added Component: Designator=C20(CAP 0402)
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM1555C1H100FA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "10pF"; VariantName = "[No Variations]"
+Added Component: Designator=C21(CAP 0402)
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM1555C1H100FA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "10pF"; VariantName = "[No Variations]"
+Added Component: Designator=C25(CAP 0402)
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GJM1555C1H3R9WB01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "3.9pF"; VariantName = "[No Variations]"
+Added Component: Designator=C26(CAP 0402)
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM155R71H221JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "220pF"; VariantName = "[No Variations]"
+Added Component: Designator=C27(CAP 0402)
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GJM1555C1H3R9WB01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "3.9pF"; VariantName = "[No Variations]"
+Added Component: Designator=C28(CAP 0402)
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GCM1555C1H8R2CA16D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "8.2pF"; VariantName = "[No Variations]"
+Added Component: Designator=C29(CAP 0402)
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM1555C1H5R6CA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "5.6pF"; VariantName = "[No Variations]"
+Added Component: Designator=C30(CAP_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805JRNPO9BN101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "OBDH_Ed02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "100pF 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C31(CAP_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805JRNPO9BN101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "OBDH_Ed02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "100pF 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C32(CAP_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805JRNPO9BN101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "OBDH_Ed02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "100pF 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C33(CAP 0402)
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM155R71H221JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "220pF"; VariantName = "[No Variations]"
+Added Component: Designator=C34(CAP_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL05B104KO5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "OBDH_Ed02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "0.1uF 16V"; VariantName = "[No Variations]"
+Added Component: Designator=C35(CAP 0402)
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GCM1555C1H270JA16D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "27pF"; VariantName = "[No Variations]"
+Added Component: Designator=C36(CAP 0402)
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GCM1555C1H270JA16D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "27pF"; VariantName = "[No Variations]"
+Added Component: Designator=FB2(IND_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MPZ2012S331AT000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "330R @ 2.5A"; VariantName = "[No Variations]"
+Added Component: Designator=FB3(IND_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MPZ2012S331AT000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "330R @ 2.5A"; VariantName = "[No Variations]"
+Added Component: Designator=FB4(IND_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MPZ2012S331AT000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "330R @ 2.5A"; VariantName = "[No Variations]"
+Added Component: Designator=FB6(IND_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MPZ2012S331AT000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "330R @ 2.5A"; VariantName = "[No Variations]"
+Added Component: Designator=J2(CONN_5POS_2.54MM)
+Added Component: Designator=L2(IND 0402)
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LQG15HS27NH02D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "27nH"; VariantName = "[No Variations]"
+Added Component: Designator=L3(IND 0402)
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LQG15HN22NH02D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22nH"; VariantName = "[No Variations]"
+Added Component: Designator=L4(IND 0402)
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LQG15HS27NH02D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "27nH"; VariantName = "[No Variations]"
+Added Component: Designator=L5(IND 0402)
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LQG15HS27NH02D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "27nH"; VariantName = "[No Variations]"
+Added Component: Designator=P1(CONN PTH SMA JACK CONSMA002-L-G)
+Added Component: Designator=R2(RES_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW080562K0JNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "62K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RT0805BRD0719K6L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "19.6k"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Intertech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW08051M00JNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AF0805JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AF0805JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Intertech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW08051M00JNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Intertech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW08051M00JNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AF0805JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Intertech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW08051M00JNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW080562K0JNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "56K"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Intertech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW08051M00JNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=U2(QFN-48)
+Added Component: Designator=Y2(Crystal-4SMD)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NDK America, Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NX3225SA-26MHZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "26MHz 8pF"; VariantName = "[No Variations]"
+Added Component: Designator=Y3(Crystal-4SMD)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NDK America, Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NX3225SA-26MHZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "26MHz 8pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=R?-1
+Added Net: Name=+3V3
+Added Pin To Net: NetName=+VDD_IMU Pin=R?-2
+Added Net: Name=+VDD_IMU
+Added Pin To Net: NetName=+VUSB Pin=C6-2
+Added Net: Name=+VUSB
+Added Pin To Net: NetName=3V3 Pin=C1-2
+Added Pin To Net: NetName=3V3 Pin=C3-2
+Added Pin To Net: NetName=3V3 Pin=C4-2
+Added Pin To Net: NetName=3V3 Pin=C16-2
+Added Pin To Net: NetName=3V3 Pin=FB2-1
+Added Pin To Net: NetName=3V3 Pin=FB3-1
+Added Pin To Net: NetName=3V3 Pin=FB4-1
+Added Pin To Net: NetName=3V3 Pin=FB6-1
+Added Pin To Net: NetName=3V3 Pin=R2-2
+Added Pin To Net: NetName=3V3 Pin=R5-1
+Added Pin To Net: NetName=3V3 Pin=R6-1
+Added Pin To Net: NetName=3V3 Pin=R7-1
+Added Pin To Net: NetName=3V3 Pin=R16-1
+Added Net: Name=3V3
+Added Net: Name=CS
+Added Pin To Net: NetName=DVDD Pin=C30-2
+Added Pin To Net: NetName=DVDD Pin=C31-2
+Added Pin To Net: NetName=DVDD Pin=C32-2
+Added Pin To Net: NetName=DVDD Pin=FB6-2
+Added Pin To Net: NetName=DVDD Pin=R16-2
+Added Net: Name=DVDD
+Added Pin To Net: NetName=FB Pin=R2-1
+Added Pin To Net: NetName=FB Pin=R4-2
+Added Net: Name=FB
+Added Pin To Net: NetName=GND_RF Pin=P1-2
+Added Pin To Net: NetName=GND_RF Pin=P1-2
+Added Pin To Net: NetName=GND_RF Pin=P1-2
+Added Pin To Net: NetName=GND_RF Pin=P1-2
+Added Net: Name=GND_RF
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C36-1
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=GND Pin=R17-2
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=GND Pin=U2-23
+Added Pin To Net: NetName=GND Pin=U2-35
+Added Pin To Net: NetName=GND Pin=U2-47
+Added Pin To Net: NetName=GND Pin=Y2-2
+Added Pin To Net: NetName=GND Pin=Y2-4
+Added Pin To Net: NetName=GND Pin=Y3-2
+Added Pin To Net: NetName=GND Pin=Y3-4
+Added Net: Name=GND
+Added Net: Name=I2C_SCL
+Added Pin To Net: NetName=I2C_SDA Pin=R9-1
+Added Pin To Net: NetName=I2C_SDA Pin=U2-43
+Added Net: Name=I2C_SDA
+Added Net: Name=MDRDY
+Added Net: Name=MSCL
+Added Net: Name=MSDA
+Added Pin To Net: NetName=NetC18_2 Pin=C18-2
+Added Pin To Net: NetName=NetC18_2 Pin=R11-1
+Added Pin To Net: NetName=NetC18_2 Pin=U2-3
+Added Net: Name=NetC18_2
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=NetC19_2 Pin=R11-2
+Added Pin To Net: NetName=NetC19_2 Pin=U2-4
+Added Net: Name=NetC19_2
+Added Pin To Net: NetName=NetC20_2 Pin=C20-2
+Added Pin To Net: NetName=NetC20_2 Pin=R14-1
+Added Pin To Net: NetName=NetC20_2 Pin=Y2-3
+Added Net: Name=NetC20_2
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Pin To Net: NetName=NetC21_2 Pin=R12-1
+Added Pin To Net: NetName=NetC21_2 Pin=U2-5
+Added Pin To Net: NetName=NetC21_2 Pin=Y2-1
+Added Net: Name=NetC21_2
+Added Pin To Net: NetName=NetC26_1 Pin=C26-1
+Added Pin To Net: NetName=NetC26_1 Pin=C29-2
+Added Pin To Net: NetName=NetC26_1 Pin=L4-2
+Added Net: Name=NetC26_1
+Added Pin To Net: NetName=NetC27_2 Pin=C27-2
+Added Pin To Net: NetName=NetC27_2 Pin=L2-2
+Added Pin To Net: NetName=NetC27_2 Pin=L3-1
+Added Net: Name=NetC27_2
+Added Pin To Net: NetName=NetC28_1 Pin=C28-1
+Added Pin To Net: NetName=NetC28_1 Pin=L3-2
+Added Pin To Net: NetName=NetC28_1 Pin=L4-1
+Added Net: Name=NetC28_1
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC33_2 Pin=L5-1
+Added Net: Name=NetC33_2
+Added Pin To Net: NetName=NetC34_2 Pin=C34-2
+Added Net: Name=NetC34_2
+Added Pin To Net: NetName=NetC35_2 Pin=C35-2
+Added Pin To Net: NetName=NetC35_2 Pin=R18-1
+Added Pin To Net: NetName=NetC35_2 Pin=Y3-1
+Added Net: Name=NetC35_2
+Added Pin To Net: NetName=NetC36_2 Pin=C36-2
+Added Pin To Net: NetName=NetC36_2 Pin=R18-2
+Added Pin To Net: NetName=NetC36_2 Pin=Y3-3
+Added Net: Name=NetC36_2
+Added Net: Name=NetL1_1
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=U2-42
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=R14-2
+Added Pin To Net: NetName=NetR12_2 Pin=U2-6
+Added Net: Name=NetR12_2
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=U2-44
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Net: Name=NetR17_1
+Added Pin To Net: NetName=NJTRST Pin=C15-1
+Added Pin To Net: NetName=NJTRST Pin=J2-4
+Added Pin To Net: NetName=NJTRST Pin=U2-40
+Added Net: Name=NJTRST
+Added Pin To Net: NetName=RF_ANTENNA Pin=C26-2
+Added Pin To Net: NetName=RF_ANTENNA Pin=P1-1
+Added Net: Name=RF_ANTENNA
+Added Pin To Net: NetName=RF_N Pin=C25-1
+Added Pin To Net: NetName=RF_N Pin=L2-1
+Added Net: Name=RF_N
+Added Pin To Net: NetName=RF_P Pin=C27-1
+Added Pin To Net: NetName=RF_P Pin=L5-2
+Added Net: Name=RF_P
+Added Net: Name=SAO/SA0
+Added Net: Name=SPI2_MISO
+Added Pin To Net: NetName=SPI2_MOSI Pin=U2-28
+Added Net: Name=SPI2_MOSI
+Added Pin To Net: NetName=SPI2_nSS Pin=U2-25
+Added Net: Name=SPI2_nSS
+Added Pin To Net: NetName=SPI2_SCK Pin=U2-26
+Added Net: Name=SPI2_SCK
+Added Pin To Net: NetName=SWCLK Pin=J2-3
+Added Pin To Net: NetName=SWCLK Pin=U2-37
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=J2-2
+Added Pin To Net: NetName=SWDIO Pin=U2-34
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=USB_D_N Pin=U2-33
+Added Net: Name=USB_D_N
+Added Pin To Net: NetName=USB_D_P Pin=U2-32
+Added Net: Name=USB_D_P
+Added Pin To Net: NetName=VDDA Pin=C17-2
+Added Pin To Net: NetName=VDDA Pin=FB4-2
+Added Pin To Net: NetName=VDDA Pin=R7-2
+Added Pin To Net: NetName=VDDA Pin=U2-9
+Added Net: Name=VDDA
+Added Pin To Net: NetName=VDD Pin=C9-2
+Added Pin To Net: NetName=VDD Pin=C10-2
+Added Pin To Net: NetName=VDD Pin=C11-2
+Added Pin To Net: NetName=VDD Pin=FB2-2
+Added Pin To Net: NetName=VDD Pin=J2-1
+Added Pin To Net: NetName=VDD Pin=R5-2
+Added Pin To Net: NetName=VDD Pin=R9-2
+Added Pin To Net: NetName=VDD Pin=R10-2
+Added Pin To Net: NetName=VDD Pin=U2-1
+Added Pin To Net: NetName=VDD Pin=U2-1
+Added Pin To Net: NetName=VDD Pin=U2-24
+Added Pin To Net: NetName=VDD Pin=U2-48
+Added Net: Name=VDD
+Added Pin To Net: NetName=VDDUSB Pin=C12-2
+Added Pin To Net: NetName=VDDUSB Pin=C13-2
+Added Pin To Net: NetName=VDDUSB Pin=C14-2
+Added Pin To Net: NetName=VDDUSB Pin=FB3-2
+Added Pin To Net: NetName=VDDUSB Pin=R6-2
+Added Pin To Net: NetName=VDDUSB Pin=U2-36
+Added Net: Name=VDDUSB
+Added Net: Name=vinA
+Added Pin To Net: NetName=VIN Pin=C7-2
+Added Pin To Net: NetName=VIN Pin=C8-2
+Added Net: Name=VIN
+Added Class: Name=CC1101RGPR
+Added Class: Name=KH-TYPE-C-16P
+Added Class: Name=LSM6DSOTR
+Added Class: Name=ST1S40IDR
+Added Class: Name=STM32L412CBU6
+Added Differential Pair: Name=USB_D
+Added Room: Name=CC1101RGPR
+Added Room: Name=KH-TYPE-C-16P
+Added Room: Name=LSM6DSOTR
+Added Room: Name=ST1S40IDR
+Added Room: Name=STM32L412CBU6
+Added Class: Name=USB

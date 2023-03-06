@@ -1,6 +1,7 @@
-Record=TopLevelDocument|FileName=Arquitetura_Geral.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Arquitetura_Geral.SchDoc|FileName=CC1101RGPR.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=Arquitetura_Geral.SchDoc|FileName=KH-TYPE-C-16P.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Arquitetura_Geral.SchDoc|FileName=LSM6DSOTR.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Arquitetura_Geral.SchDoc|FileName=ST1S40IDR.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Arquitetura_Geral.SchDoc|FileName=STM32L412CBU6.SchDoc|SheetNumber=5
+Record=TopLevelDocument|FileName=BLOCO PRINCIPAL.SchDoc|SheetNumber=2
+Record=SheetSymbol|SourceDocument=BLOCO PRINCIPAL.SchDoc|Designator=U_CC1101RGPR|SchDesignator=U_CC1101RGPR|FileName=CC1101RGPR.SchDoc|SheetNumber=7|SymbolType=Normal|RawFileName=CC1101RGPR.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BLOCO PRINCIPAL.SchDoc|Designator=U_KH-TYPE-C-16P|SchDesignator=U_KH-TYPE-C-16P|FileName=KH-TYPE-C-16P.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=KH-TYPE-C-16P.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BLOCO PRINCIPAL.SchDoc|Designator=U_LSM6DSOTR|SchDesignator=U_LSM6DSOTR|FileName=LSM6DSOTR.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=LSM6DSOTR.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BLOCO PRINCIPAL.SchDoc|Designator=U_ST1S40IDR|SchDesignator=U_ST1S40IDR|FileName=ST1S40IDR.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=ST1S40IDR.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BLOCO PRINCIPAL.SchDoc|Designator=U_STM32L412CBU6|SchDesignator=U_STM32L412CBU6|FileName=STM32L412CBU6.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=STM32L412CBU6.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=BLOCO PRINCIPAL.SchDoc|FileName=Arquitetura_Geral.SchDoc|SheetNumber=1
