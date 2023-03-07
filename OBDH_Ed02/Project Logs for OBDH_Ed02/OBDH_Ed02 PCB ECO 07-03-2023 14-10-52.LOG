@@ -1,0 +1,28 @@
+Removed Member From Class: ClassName=U_ST1S40IDR Member=D1
+Added Component: Designator=D?(DO-214A)
+Add component (AddParameter): Name = "Case/Package"; Value = "DO-214"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "B320B-13-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "OBDH_Ed02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "20V 3A"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D?-1
+Add Pin To Net: Unknown Pin: Pin D?-2
+Add Pin To Net: Unknown Pin: Pin FB5-2
+Add Pin To Net: Unknown Pin: Pin P1-3
+Add Pin To Net: Unknown Pin: Pin P1-4
+Add Pin To Net: Unknown Pin: Pin P1-5
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Add Pin To Net: Unknown Pin: Pin Y1-3
+Add Pin To Net: Unknown Pin: Pin Y1-4
+Change Net Name : Old Net Name=NetC18_2 New Net Name=OSC32_IN
+Change Net Name : Old Net Name=NetC19_2 New Net Name=OSC32_OUT
+Change Net Name : Old Net Name=NetC21_2 New Net Name=OSC_IN
+Change Net Name : Old Net Name=NetR12_2 New Net Name=OSC_OUT
+Add Net: Net with name "3V3" already exists
+Add Net: Net with name "3V3" already exists
+Add Net: Net with name "I2C_SDA" already exists
+Added Member To Class: ClassName=U_ST1S40IDR Member=Component D? B320B-13-F
+Add Class Member: Failed to add class member : Component FB5 _FERRITE
+Add Class Member: Failed to add class member : Component Y1 ABS07-32.768KHZ-7-T

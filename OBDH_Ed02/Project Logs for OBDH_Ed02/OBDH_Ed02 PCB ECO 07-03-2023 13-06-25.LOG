@@ -1,0 +1,37 @@
+Change Component Designator: OldDesignator=FB? NewDesignator=FB1
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C22-1
+Add Pin To Net: Unknown Pin: Pin C22-2
+Add Pin To Net: Unknown Pin: Pin C23-1
+Add Pin To Net: Unknown Pin: Pin C23-2
+Add Pin To Net: Unknown Pin: Pin C24-1
+Add Pin To Net: Unknown Pin: Pin C24-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin FB5-2
+Add Pin To Net: Unknown Pin: Pin P1-3
+Add Pin To Net: Unknown Pin: Pin P1-4
+Add Pin To Net: Unknown Pin: Pin P1-5
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin U1-9
+Add Pin To Net: Unknown Pin: Pin U1-10
+Add Pin To Net: Unknown Pin: Pin U1-11
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Add Pin To Net: Unknown Pin: Pin Y1-3
+Add Pin To Net: Unknown Pin: Pin Y1-4
+Add Net: Net with name "3V3" already exists
+Add Net: Net with name "3V3" already exists
+Add Net: Net with name "I2C_SDA" already exists
+Add Class Member: Failed to add class member : Component C2 CL21B105KAFNNNE
+Add Class Member: Failed to add class member : Component C5 CL21A106KAYNNNE
+Add Class Member: Failed to add class member : Component C22 _Capacitor
+Add Class Member: Failed to add class member : Component C23 _Capacitor
+Add Class Member: Failed to add class member : Component C24 _Capacitor
+Add Class Member: Failed to add class member : Component FB5 _FERRITE
+Add Class Member: Failed to add class member : Component R3 AF0805JR-0710KL
+Add Class Member: Failed to add class member : Component Y1 ABS07-32.768KHZ-7-T
