@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=J1-5
+Removed Member From Class: ClassName=U_ST1S40IDR Member=D1
+Removed Member From Class: ClassName=U_LSM6DSOTR Member=R13
+Add Pin To Net: Unknown Pin: Pin P1-3
+Add Pin To Net: Unknown Pin: Pin P1-4
+Add Pin To Net: Unknown Pin: Pin P1-5
+Add Net: Net with name "GND" already exists
+Added Member To Class: ClassName=U_STM32L412CBU6 Member=Component R10 CRCW08051M00JNEA
+Added Member To Class: ClassName=U_STM32L412CBU6 Member=Component R12 AF0805JR-0710KL
+Added Member To Class: ClassName=U_LSM6DSOTR Member=Component R14 RC0805JR-070RL
+Added Member To Class: ClassName=U_CC1101RGPR Member=Component R15 RC0805JR-070RL

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=vinA Pin=R1-2
+Removed Member From Class: ClassName=U_ST1S40IDR Member=R1
+Added Pin To Net: NetName=vinA Pin=C7-2
+Added Pin To Net: NetName=vinA Pin=C8-2
+Added Pin To Net: NetName=vinA Pin=FB1-2
+Add Pin To Net: Unknown Pin: Pin P1-3
+Add Pin To Net: Unknown Pin: Pin P1-4
+Add Pin To Net: Unknown Pin: Pin P1-5
+Change Net Name : Old Net Name=vinA New Net Name=VIN
+Add Net: Net with name "GND" already exists

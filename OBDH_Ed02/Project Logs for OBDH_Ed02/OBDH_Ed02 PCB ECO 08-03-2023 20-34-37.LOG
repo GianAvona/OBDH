@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=GND Pin=C22-1
+Removed Pin From Net: NetName=+VDD_IMU Pin=C22-2
+Removed Pin From Net: NetName=GND Pin=C23-1
+Removed Pin From Net: NetName=+VDD_IMU Pin=C23-2
+Removed Pin From Net: NetName=GND Pin=C24-1
+Removed Pin From Net: NetName=+VDD_IMU Pin=C24-2
+Removed Pin From Net: NetName=+VDD_IMU Pin=R15-2
+Removed Pin From Net: NetName=GND Pin=U3-2
+Removed Pin From Net: NetName=GND Pin=U3-3
+Removed Member From Class: ClassName=U_LSM6DSOTR Member=C22
+Removed Member From Class: ClassName=U_LSM6DSOTR Member=C23
+Removed Member From Class: ClassName=U_LSM6DSOTR Member=C24
+Removed Member From Class: ClassName=U_LSM6DSOTR Member=R15
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Designator: Unknown Component : U3
+Change component parameters: Component "U3" not found
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin FB?-2
+Add Pin To Net: Unknown Pin: Pin P1-3
+Add Pin To Net: Unknown Pin: Pin P1-4
+Add Pin To Net: Unknown Pin: Pin P1-5
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Add Pin To Net: Unknown Pin: Pin Y1-3
+Add Pin To Net: Unknown Pin: Pin Y1-4
+Change Net Name : Old Net Name=I2C_SCL New Net Name=SCL
+Added Net: Name=+3V3
+Added Net: Name=CS
+Added Net: Name=MDRDY
+Added Net: Name=MSCL
+Added Net: Name=MSDA
+Added Net: Name=SAO/SA0
+Added Net: Name=SDA
+Add Class Member: Failed to add class member : Component C? _Capacitor
+Add Class Member: Failed to add class member : Component C? _Capacitor
+Add Class Member: Failed to add class member : Component C? _Capacitor
+Add Class Member: Failed to add class member : Component FB? _FERRITE
+Add Class Member: Failed to add class member : Component R? _Resistor
+Add Class Member: Failed to add class member : Component Y1 ABS07-32.768KHZ-7-T
