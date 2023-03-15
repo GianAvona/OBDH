@@ -43,6 +43,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Variant of OBDH_Ed02
 
 [Preferences]
 PrefsVaultGUID=
@@ -217,6 +218,16 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LUYRSLCA
+
+[ProjectVariant1]
+UniqueID=F491D02D-E719-4118-B820-83CBCD6EA2FA
+Description=Variant of OBDH_Ed02
+AllowFabrication=0
+ParameterCount=0
+VariationCount=2
+Variation1=Designator=R10|UniqueId=\BOGCZIBT\YYVBJAHW|Kind=1|AlternatePart= 
+Variation2=Designator=R11|UniqueId=\BOGCZIBT\NRWEYIUM|Kind=1|AlternatePart= 
+ParamVariationCount=0
 
 [Configuration1]
 Name=Sources
