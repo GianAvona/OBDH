@@ -1,0 +1,43 @@
+Removed Member From Class: ClassName=U_ST1S40IDR Member=C2
+Removed Member From Class: ClassName=U_KH-TYPE-C-16P Member=C4
+Removed Member From Class: ClassName=U_KH-TYPE-C-16P Member=C6
+Removed Member From Class: ClassName=U_STM32L412CBU6 Member=C24
+Removed Member From Class: ClassName=U_LSM6DSOTR Member=C26
+Add Component: Footprint Not Found CONN_5POS_2.54MM
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-3
+Add Pin To Net: Unknown Pin: Pin J3-5
+Change Net Name : Old Net Name=VOUT New Net Name=NetFB2_1
+Add Net: Net with name "NJTRST" already exists
+Add Net: Net with name "SWCLK" already exists
+Add Net: Net with name "SWDIO" already exists
+Added Member To Class: ClassName=U_KH-TYPE-C-16P Member=Component C1 CC0805JRNPO9BN101
+Added Member To Class: ClassName=U_KH-TYPE-C-16P Member=Component C3 CC0805JRNPO9BN101
+Added Member To Class: ClassName=U_ST1S40IDR Member=Component C5 CL21B105KAFNNNE
+Added Member To Class: ClassName=U_ST1S40IDR Member=Component C7 CC0805KRX7R6BB224
+Added Member To Class: ClassName=U_STM32L412CBU6 Member=Component C12 CL05B104KO5NNNC
+Added Member To Class: ClassName=U_STM32L412CBU6 Member=Component C13 CC0805JRNPO9BN101
+Added Member To Class: ClassName=U_STM32L412CBU6 Member=Component C15 CC0805JRNPO9BN101
+Added Member To Class: ClassName=U_STM32L412CBU6 Member=Component C17 CC0805JRNPO9BN101
+Added Member To Class: ClassName=U_STM32L412CBU6 Member=Component C18 CC0805JRNPO9BN101
+Added Member To Class: ClassName=U_STM32L412CBU6 Member=Component C22 GRM1555C1H100FA01D
+Added Member To Class: ClassName=U_LSM6DSOTR Member=Component C23 CC0805JRNPO9BN101
+Added Member To Class: ClassName=U_LSM6DSOTR Member=Component C25 CC0805JRNPO9BN101
+Added Member To Class: ClassName=U_CC1101RGPR Member=Component C27 GRM155R71H221JA01D
+Added Member To Class: ClassName=U_CC1101RGPR Member=Component C29 GCM1555C1H8R2CA16D
+Added Member To Class: ClassName=U_CC1101RGPR Member=Component C31 CC0805JRNPO9BN101
+Added Member To Class: ClassName=U_CC1101RGPR Member=Component C33 CC0805JRNPO9BN101
+Added Member To Class: ClassName=U_CC1101RGPR Member=Component C35 CL05B104KO5NNNC
+Added Member To Class: ClassName=U_KH-TYPE-C-16P Member=Component J1 796638-2
+Added Member To Class: ClassName=U_KH-TYPE-C-16P Member=Component J2 USB-111HF-B-CU
+Add Class Member: Failed to add class member : Component J3 CONN_SWD
+Added Member To Class: ClassName=U_STM32L412CBU6 Member=Component R9 AF0805JR-0710KL
+Added Member To Class: ClassName=U_STM32L412CBU6 Member=Component R11 CRCW08051M00JNEA
+Added Member To Class: ClassName=U_STM32L412CBU6 Member=Component TP15 TEST_POINT_1.5MM
+Added Room: Name=U_CC1101RGPR
+Added Room: Name=U_INTERFACE_EXT
+Added Room: Name=U_KH-TYPE-C-16P
+Added Room: Name=U_LSM6DSOTR
+Added Room: Name=U_ST1S40IDR
+Added Room: Name=U_STM32L412CBU6

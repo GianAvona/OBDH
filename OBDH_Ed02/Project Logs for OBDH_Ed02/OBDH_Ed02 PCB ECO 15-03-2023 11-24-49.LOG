@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NRST Pin=J3-6
+Added Pin To Net: NetName=PB10 Pin=U2-21
+Added Pin To Net: NetName=PB11 Pin=U2-22
+Added Pin To Net: NetName=PB8 Pin=U2-45
+Added Pin To Net: NetName=PB9 Pin=U2-46
+Added Room: Name=U_INTERFACE_EXT

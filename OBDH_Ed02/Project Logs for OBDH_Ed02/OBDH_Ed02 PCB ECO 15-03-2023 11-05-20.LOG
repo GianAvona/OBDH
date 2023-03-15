@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=PA6 Pin=U2-16
+Removed Pin From Net: NetName=PA7 Pin=U2-17
+Removed Pin From Net: NetName=PB10 Pin=U2-21
+Removed Pin From Net: NetName=PB11 Pin=U2-22
+Removed Pin From Net: NetName=PA8 Pin=U2-29
+Removed Pin From Net: NetName=PA10 Pin=U2-31
+Removed Pin From Net: NetName=USB_D_N Pin=U2-32
+Removed Pin From Net: NetName=USB_D_P Pin=U2-33
+Removed Pin From Net: NetName=PB8 Pin=U2-45
+Removed Pin From Net: NetName=PB9 Pin=U2-46
+Added Component: Designator=J3(CONN_5POS_2.54MM - duplicate)
+Added Pin To Net: NetName=3V3 Pin=FB2-1
+Added Pin To Net: NetName=VDD Pin=J3-1
+Added Pin To Net: NetName=SWDIO Pin=J3-2
+Added Pin To Net: NetName=SWCLK Pin=J3-3
+Added Pin To Net: NetName=NJTRST Pin=J3-4
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=3V3 Pin=R4-1
+Added Pin To Net: NetName=SWDIO Pin=U2-34
+Added Pin To Net: NetName=SWCLK Pin=U2-37
+Added Member To Class: ClassName=U_INTERFACE_EXT Member=Component J3 CONN_SWD
+Added Room: Name=U_CC1101RGPR
+Added Room: Name=U_INTERFACE_EXT
+Added Room: Name=U_KH-TYPE-C-16P
+Added Room: Name=U_LSM6DSOTR
+Added Room: Name=U_ST1S40IDR
+Added Room: Name=U_STM32L412CBU6

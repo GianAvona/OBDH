@@ -1,0 +1,11 @@
+Add Component: Footprint Not Found CONN_5POS_2.54MM
+Added Pin To Net: NetName=3V3 Pin=FB2-1
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-3
+Add Pin To Net: Unknown Pin: Pin J3-5
+Added Pin To Net: NetName=3V3 Pin=R4-1
+Add Net: Net with name "NJTRST" already exists
+Add Net: Net with name "SWCLK" already exists
+Add Net: Net with name "SWDIO" already exists
+Add Class Member: Failed to add class member : Component J3 CONN_SWD

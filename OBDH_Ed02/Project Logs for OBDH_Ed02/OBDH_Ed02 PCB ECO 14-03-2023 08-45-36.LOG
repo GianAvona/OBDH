@@ -1,0 +1,372 @@
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Pin From Net: NetName=OSC32_IN Pin=C18-2
+Removed Pin From Net: NetName=OSC32_OUT Pin=C19-2
+Removed Pin From Net: NetName=OSC_IN Pin=C21-2
+Removed Pin From Net: NetName=VDD Pin=J2-1
+Removed Pin From Net: NetName=SWDIO Pin=J2-2
+Removed Pin From Net: NetName=SWCLK Pin=J2-3
+Removed Pin From Net: NetName=NJTRST Pin=J2-4
+Removed Pin From Net: NetName=GND Pin=J2-5
+Removed Pin From Net: NetName=OSC32_IN Pin=R9-1
+Removed Pin From Net: NetName=OSC32_OUT Pin=R9-2
+Removed Pin From Net: NetName=USB_D_P Pin=U2-32
+Removed Pin From Net: NetName=USB_D_N Pin=U2-33
+Removed Pin From Net: NetName=SWDIO Pin=U2-34
+Removed Pin From Net: NetName=SWCLK Pin=U2-37
+Removed Member From Class: ClassName=U_STM32L412CBU6 Member=J2
+Change Component Designator: OldDesignator=C1 NewDesignator=C4
+Change Component Designator: OldDesignator=C2 NewDesignator=C5
+Change Component Designator: OldDesignator=C3 NewDesignator=C6
+Change Component Designator: OldDesignator=C4 NewDesignator=C7
+Change Component Designator: OldDesignator=C5 NewDesignator=C8
+Change Component Designator: OldDesignator=C6 NewDesignator=C1
+Change Component Designator: OldDesignator=C7 NewDesignator=C2
+Change Component Designator: OldDesignator=C8 NewDesignator=C3
+Change Component Designator: OldDesignator=C12 NewDesignator=C13
+Change Component Designator: OldDesignator=C13 NewDesignator=C14
+Change Component Designator: OldDesignator=C14 NewDesignator=C15
+Change Component Designator: OldDesignator=C15 NewDesignator=C16
+Change Component Designator: OldDesignator=C16 NewDesignator=C17
+Change Component Designator: OldDesignator=C17 NewDesignator=C18
+Change Component Designator: OldDesignator=C22 NewDesignator=C23
+Change Component Designator: OldDesignator=C23 NewDesignator=C24
+Change Component Designator: OldDesignator=C24 NewDesignator=C25
+Change Component Designator: OldDesignator=C25 NewDesignator=C26
+Change Component Designator: OldDesignator=C26 NewDesignator=C27
+Change Component Designator: OldDesignator=C27 NewDesignator=C28
+Change Component Designator: OldDesignator=C28 NewDesignator=C29
+Change Component Designator: OldDesignator=C29 NewDesignator=C30
+Change Component Designator: OldDesignator=C30 NewDesignator=C31
+Change Component Designator: OldDesignator=C31 NewDesignator=C32
+Change Component Designator: OldDesignator=C32 NewDesignator=C33
+Change Component Designator: OldDesignator=C33 NewDesignator=C34
+Change Component Designator: OldDesignator=C34 NewDesignator=C35
+Change Component Designator: OldDesignator=C35 NewDesignator=C36
+Change Component Designator: OldDesignator=C36 NewDesignator=C37
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Change Component Designator: OldDesignator=R11 NewDesignator=R9
+Added Component: Designator=C12(CAP_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL05B104KO5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "OBDH_Ed02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "0.1uF 16V"; VariantName = "[No Variations]"
+Added Component: Designator=C22(CAP 0402)
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM1555C1H100FA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "10pF"; VariantName = "[No Variations]"
+Added Component: Designator=J1(CONN TERM BLOCK 2POS 5.08MM)
+Add component (AddParameter): Name = "Case/Package"; Value = "PTH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "796638-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "GT1021_Ed04r2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "CONN 2POS 5.08MM"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CONN_5POS_2.54MM
+Added Component: Designator=J4(CONN_HDR_2.54x16 - PA)
+Added Component: Designator=J5(CONN_HDR_2.54x16 - PB)
+Added Component: Designator=J6(HDR_2.54x6)
+Added Component: Designator=R11(RES_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Intertech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW08051M00JNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(TESTPOINT_1.5MM)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TEST_POINT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP2(TESTPOINT_1.5MM)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TEST_POINT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP3(TESTPOINT_1.5MM)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TEST_POINT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP4(TESTPOINT_1.5MM)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TEST_POINT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP5(TESTPOINT_1.5MM)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TEST_POINT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP6(TESTPOINT_1.5MM)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TEST_POINT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP7(TESTPOINT_1.5MM)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TEST_POINT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP8(TESTPOINT_1.5MM)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TEST_POINT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP9(TESTPOINT_1.5MM)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TEST_POINT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP10(TESTPOINT_1.5MM)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TEST_POINT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP11(TESTPOINT_1.5MM)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TEST_POINT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP12(TESTPOINT_1.5MM)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TEST_POINT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP13(TESTPOINT_1.5MM)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TEST_POINT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP14(TESTPOINT_1.5MM)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TEST_POINT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP15(TESTPOINT_1.5MM)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TEST_POINT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP16(TESTPOINT_1.5MM)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TEST_POINT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP17(TESTPOINT_1.5MM)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TEST_POINT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP18(TESTPOINT_1.5MM)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TEST_POINT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP19(TESTPOINT_1.5MM)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TEST_POINT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP20(TESTPOINT_1.5MM)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TEST_POINT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP21(TESTPOINT_1.5MM)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TEST_POINT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP22(TESTPOINT_1.5MM)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TEST_POINT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origem"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=OSC32_IN Pin=C19-2
+Added Pin To Net: NetName=OSC32_OUT Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=OSC_IN Pin=C22-2
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=+VUSB Pin=J1-2
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-3
+Add Pin To Net: Unknown Pin: Pin J3-5
+Added Pin To Net: NetName=3V3 Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=USB_D_N Pin=J6-3
+Added Pin To Net: NetName=USB_D_P Pin=J6-4
+Added Pin To Net: NetName=OSC32_IN Pin=R11-1
+Added Pin To Net: NetName=OSC32_OUT Pin=R11-2
+Added Pin To Net: NetName=USB_D_N Pin=TP1-1
+Added Pin To Net: NetName=USB_D_P Pin=TP2-1
+Added Pin To Net: NetName=+VUSB Pin=TP3-1
+Added Pin To Net: NetName=GND Pin=TP4-1
+Added Pin To Net: NetName=VIN Pin=TP5-1
+Added Pin To Net: NetName=3V3 Pin=TP6-1
+Added Pin To Net: NetName=EN Pin=TP7-1
+Added Pin To Net: NetName=FB Pin=TP8-1
+Added Pin To Net: NetName=VDD Pin=TP9-1
+Added Pin To Net: NetName=VDDUSB Pin=TP10-1
+Added Pin To Net: NetName=SPI2_MOSI Pin=TP11-1
+Added Pin To Net: NetName=SPI2_MISO Pin=TP12-1
+Added Pin To Net: NetName=SPI2_SCK Pin=TP13-1
+Added Pin To Net: NetName=SPI2_nSS Pin=TP14-1
+Added Pin To Net: NetName=VDDA Pin=TP15-1
+Added Pin To Net: NetName=I2C_SDA Pin=TP16-1
+Added Pin To Net: NetName=I2C_SCL Pin=TP17-1
+Added Pin To Net: NetName=OSC32_IN Pin=TP18-1
+Added Pin To Net: NetName=OSC_IN Pin=TP19-1
+Added Pin To Net: NetName=+VDD_IMU Pin=TP20-1
+Added Pin To Net: NetName=DVDD Pin=TP21-1
+Added Pin To Net: NetName=NetC35_2 Pin=TP22-1
+Added Pin To Net: NetName=USB_D_N Pin=U2-32
+Added Pin To Net: NetName=USB_D_P Pin=U2-33
+Change Net Name : Old Net Name=+VUSB New Net Name=+VIN
+Change Net Name : Old Net Name=NetC26_1 New Net Name=NetC27_1
+Change Net Name : Old Net Name=NetC27_2 New Net Name=NetC28_2
+Change Net Name : Old Net Name=NetC28_1 New Net Name=NetC29_1
+Change Net Name : Old Net Name=NetC33_2 New Net Name=NetC34_2
+Change Net Name : Old Net Name=NetC34_2 New Net Name=NetC35_2
+Change Net Name : Old Net Name=NetC35_2 New Net Name=NetC36_2
+Change Net Name : Old Net Name=NetC36_2 New Net Name=NetC37_2
+Change Net Name : Old Net Name=NetR11_2 New Net Name=NetR9_2
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Pin To Net: NetName=NetC21_2 Pin=R12-1
+Added Pin To Net: NetName=NetC21_2 Pin=Y2-3
+Added Net: Name=NetC21_2
+Add Net: Net with name "NJTRST" already exists
+Added Pin To Net: NetName=NRST Pin=C12-2
+Added Pin To Net: NetName=NRST Pin=U2-7
+Added Net: Name=NRST
+Added Pin To Net: NetName=PA1 Pin=J4-8
+Added Pin To Net: NetName=PA1 Pin=U2-11
+Added Net: Name=PA1
+Added Pin To Net: NetName=PA4 Pin=J4-7
+Added Pin To Net: NetName=PA4 Pin=U2-14
+Added Net: Name=PA4
+Added Pin To Net: NetName=PA5 Pin=J4-6
+Added Pin To Net: NetName=PA5 Pin=U2-15
+Added Net: Name=PA5
+Added Pin To Net: NetName=PA6 Pin=J4-5
+Added Pin To Net: NetName=PA6 Pin=U2-16
+Added Net: Name=PA6
+Added Pin To Net: NetName=PA7 Pin=J4-4
+Added Pin To Net: NetName=PA7 Pin=U2-17
+Added Net: Name=PA7
+Added Pin To Net: NetName=PA8 Pin=J4-3
+Added Pin To Net: NetName=PA8 Pin=U2-29
+Added Net: Name=PA8
+Added Pin To Net: NetName=PA9 Pin=J4-2
+Added Net: Name=PA9
+Added Pin To Net: NetName=PA10 Pin=J4-1
+Added Pin To Net: NetName=PA10 Pin=U2-31
+Added Net: Name=PA10
+Added Pin To Net: NetName=PB0 Pin=J5-8
+Added Pin To Net: NetName=PB0 Pin=U2-18
+Added Net: Name=PB0
+Added Pin To Net: NetName=PB1 Pin=J5-7
+Added Pin To Net: NetName=PB1 Pin=U2-19
+Added Net: Name=PB1
+Added Pin To Net: NetName=PB2 Pin=J5-6
+Added Pin To Net: NetName=PB2 Pin=U2-20
+Added Net: Name=PB2
+Added Pin To Net: NetName=PB5 Pin=J5-5
+Added Pin To Net: NetName=PB5 Pin=U2-41
+Added Net: Name=PB5
+Added Pin To Net: NetName=PB8 Pin=J5-4
+Added Pin To Net: NetName=PB8 Pin=U2-45
+Added Net: Name=PB8
+Added Pin To Net: NetName=PB9 Pin=J5-3
+Added Pin To Net: NetName=PB9 Pin=U2-46
+Added Net: Name=PB9
+Added Pin To Net: NetName=PB10 Pin=J5-2
+Added Pin To Net: NetName=PB10 Pin=U2-21
+Added Net: Name=PB10
+Added Pin To Net: NetName=PB11 Pin=J5-1
+Added Pin To Net: NetName=PB11 Pin=U2-22
+Added Net: Name=PB11
+Add Net: Net with name "SWCLK" already exists
+Add Net: Net with name "SWDIO" already exists
+Added Pin To Net: NetName=UART_RX Pin=J6-6
+Added Pin To Net: NetName=UART_RX Pin=U2-13
+Added Net: Name=UART_RX
+Added Pin To Net: NetName=UART_TX Pin=J6-5
+Added Pin To Net: NetName=UART_TX Pin=U2-12
+Added Net: Name=UART_TX
+Added Class: Name=U_INTERFACE_EXT
+Added Member To Class: ClassName=U_STM32L412CBU6 Member=Component C22 GRM1555C1H100FA01D
+Added Member To Class: ClassName=U_KH-TYPE-C-16P Member=Component J2 USB-111HF-B-CU
+Added Member To Class: ClassName=U_KH-TYPE-C-16P Member=Component TP1 TEST_POINT_1.5MM
+Added Member To Class: ClassName=U_KH-TYPE-C-16P Member=Component TP2 TEST_POINT_1.5MM
+Added Member To Class: ClassName=U_KH-TYPE-C-16P Member=Component TP3 TEST_POINT_1.5MM
+Added Member To Class: ClassName=U_KH-TYPE-C-16P Member=Component TP4 TEST_POINT_1.5MM
+Added Member To Class: ClassName=U_ST1S40IDR Member=Component TP5 TEST_POINT_1.5MM
+Added Member To Class: ClassName=U_ST1S40IDR Member=Component TP6 TEST_POINT_1.5MM
+Added Member To Class: ClassName=U_ST1S40IDR Member=Component TP7 TEST_POINT_1.5MM
+Added Member To Class: ClassName=U_ST1S40IDR Member=Component TP8 TEST_POINT_1.5MM
+Added Member To Class: ClassName=U_STM32L412CBU6 Member=Component TP9 TEST_POINT_1.5MM
+Added Member To Class: ClassName=U_STM32L412CBU6 Member=Component TP10 TEST_POINT_1.5MM
+Added Member To Class: ClassName=U_STM32L412CBU6 Member=Component TP11 TEST_POINT_1.5MM
+Added Member To Class: ClassName=U_STM32L412CBU6 Member=Component TP12 TEST_POINT_1.5MM
+Added Member To Class: ClassName=U_STM32L412CBU6 Member=Component TP13 TEST_POINT_1.5MM
+Added Member To Class: ClassName=U_STM32L412CBU6 Member=Component TP14 TEST_POINT_1.5MM
+Added Member To Class: ClassName=U_STM32L412CBU6 Member=Component TP15 TEST_POINT_1.5MM
+Added Member To Class: ClassName=U_STM32L412CBU6 Member=Component TP16 TEST_POINT_1.5MM
+Added Member To Class: ClassName=U_STM32L412CBU6 Member=Component TP17 TEST_POINT_1.5MM
+Added Member To Class: ClassName=U_STM32L412CBU6 Member=Component TP18 TEST_POINT_1.5MM
+Added Member To Class: ClassName=U_STM32L412CBU6 Member=Component TP19 TEST_POINT_1.5MM
+Added Member To Class: ClassName=U_LSM6DSOTR Member=Component TP20 TEST_POINT_1.5MM
+Added Member To Class: ClassName=U_CC1101RGPR Member=Component TP21 TEST_POINT_1.5MM
+Added Member To Class: ClassName=U_CC1101RGPR Member=Component TP22 TEST_POINT_1.5MM
+Added Room: Name=U_INTERFACE_EXT
