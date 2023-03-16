@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=USB_D_N Pin=U2-32
+Added Pin To Net: NetName=USB_D_P Pin=U2-33
+Added Member To Class: ClassName=U_STM32L412CBU6 Member=Component C11 CC0805JRNPO9BN101
+Added Room: Name=U_KH-TYPE-C-16P
+Added Room: Name=U_LSM6DSOTR
+Added Room: Name=U_ST1S40IDR
+Added Room: Name=U_STM32L412CBU6

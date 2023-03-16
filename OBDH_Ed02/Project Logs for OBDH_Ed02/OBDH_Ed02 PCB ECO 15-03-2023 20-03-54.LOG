@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=R10 Old Footprint=RES_0805 New Footprint=RES 0402
+Change Component Footprint: Designator=R11 Old Footprint=RES_0805 New Footprint=RES 0402
+Change Component Footprint: Designator=R12 Old Footprint=RES_0805 New Footprint=RES 0402
+Added Room: Name=U_KH-TYPE-C-16P
+Added Room: Name=U_ST1S40IDR
