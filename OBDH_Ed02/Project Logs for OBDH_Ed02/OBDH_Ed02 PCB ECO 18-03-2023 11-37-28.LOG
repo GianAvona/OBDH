@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=PA10 Pin=J4-1
+Removed Pin From Net: NetName=PA9 Pin=J4-2
+Removed Pin From Net: NetName=PA8 Pin=J4-3
+Removed Pin From Net: NetName=PA7 Pin=J4-4
+Removed Pin From Net: NetName=PA6 Pin=J4-5
+Removed Pin From Net: NetName=PA5 Pin=J4-6
+Removed Pin From Net: NetName=PA4 Pin=J4-7
+Removed Pin From Net: NetName=PA1 Pin=J4-8
+Added Pin To Net: NetName=PA1 Pin=J4-1
+Added Pin To Net: NetName=PA4 Pin=J4-2
+Added Pin To Net: NetName=PA5 Pin=J4-3
+Added Pin To Net: NetName=PA6 Pin=J4-4
+Added Pin To Net: NetName=PA7 Pin=J4-5
+Added Pin To Net: NetName=PA8 Pin=J4-6
+Added Pin To Net: NetName=PA9 Pin=J4-7
+Added Pin To Net: NetName=PA10 Pin=J4-8
+Added Room: Name=U_CC1101RGPR
+Added Room: Name=U_INTERFACE_EXT
+Added Room: Name=U_KH-TYPE-C-16P
+Added Room: Name=U_LSM6DSOTR
+Added Room: Name=U_ST1S40IDR
+Added Room: Name=U_STM32L412CBU6

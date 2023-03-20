@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=UART_TX Pin=J6-5
+Removed Pin From Net: NetName=UART_RX Pin=J6-6
+Change Component Designator: OldDesignator=TP18 NewDesignator=TP19
+Change Component Designator: OldDesignator=TP19 NewDesignator=TP18
+Added Pin To Net: NetName=UART_RX Pin=J6-5
+Added Pin To Net: NetName=UART_TX Pin=J6-6
+Added Member To Class: ClassName=U_INTERFACE_EXT Member=Component J6 HDR_2.54x6
+Added Room: Name=U_CC1101RGPR
+Added Room: Name=U_INTERFACE_EXT
+Added Room: Name=U_KH-TYPE-C-16P
+Added Room: Name=U_LSM6DSOTR
+Added Room: Name=U_ST1S40IDR
+Added Room: Name=U_STM32L412CBU6
