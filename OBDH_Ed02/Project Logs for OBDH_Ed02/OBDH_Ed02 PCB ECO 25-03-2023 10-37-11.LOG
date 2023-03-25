@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=USB_D_N Pin=J6-3
+Removed Pin From Net: NetName=USB_D_P Pin=J6-4
+Removed Pin From Net: NetName=UART_RX Pin=J6-5
+Removed Pin From Net: NetName=UART_TX Pin=J6-6
+Added Pin To Net: NetName=UART_RX Pin=J6-3
+Added Pin To Net: NetName=UART_TX Pin=J6-4
+Added Pin To Net: NetName=USB_D_N Pin=J6-5
+Added Pin To Net: NetName=USB_D_P Pin=J6-6
+Added Room: Name=U_CC1101RGPR
+Added Room: Name=U_KH-TYPE-C-16P
+Added Room: Name=U_LSM6DSOTR
+Added Room: Name=U_ST1S40IDR
+Added Room: Name=U_STM32L412CBU6

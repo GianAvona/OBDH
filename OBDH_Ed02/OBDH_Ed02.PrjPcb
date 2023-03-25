@@ -224,11 +224,14 @@ UniqueID=F491D02D-E719-4118-B820-83CBCD6EA2FA
 Description=Variant of OBDH_Ed02
 AllowFabrication=0
 ParameterCount=0
-VariationCount=4
+VariationCount=7
 Variation1=Designator=R10|UniqueId=\BOGCZIBT\YYVBJAHW|Kind=1|AlternatePart= 
 Variation2=Designator=R11|UniqueId=\BOGCZIBT\NRWEYIUM|Kind=1|AlternatePart= 
 Variation3=Designator=R16|UniqueId=\BBXEKWAF\NHBDXZNZ|Kind=1|AlternatePart= 
 Variation4=Designator=R14|UniqueId=\BBXEKWAF\ROILHVUB|Kind=1|AlternatePart= 
+Variation5=Designator=R4|UniqueId=\BOGCZIBT\LWVFFTYC|Kind=1|AlternatePart= 
+Variation6=Designator=R5|UniqueId=\BOGCZIBT\EGKMXOST|Kind=1|AlternatePart= 
+Variation7=Designator=R6|UniqueId=\BOGCZIBT\USDEMAIR|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Configuration1]

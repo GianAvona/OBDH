@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=+VUSB_FILT Pin=C2-2
+Removed Pin From Net: NetName=+VUSB_FILT Pin=C3-2
+Removed Pin From Net: NetName=+VUSB_FILT Pin=FB1-2
+Change Net Name : Old Net Name=+VUSB_FILT New Net Name=VIN
+Added Pin To Net: NetName=+VUSB_FILT Pin=C2-2
+Added Pin To Net: NetName=+VUSB_FILT Pin=C3-2
+Added Pin To Net: NetName=+VUSB_FILT Pin=FB1-2
+Added Net: Name=+VUSB_FILT
+Added Room: Name=U_STM32L412CBU6
