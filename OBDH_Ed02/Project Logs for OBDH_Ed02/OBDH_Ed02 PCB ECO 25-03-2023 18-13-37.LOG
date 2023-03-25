@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=J4 Old Footprint= New Footprint=CONN_HDR_2.54x6 - PA
+Added Room: Name=U_CC1101RGPR
+Added Room: Name=U_INTERFACE_EXT
+Added Room: Name=U_KH-TYPE-C-16P
+Added Room: Name=U_LSM6DSOTR
+Added Room: Name=U_ST1S40IDR
+Added Room: Name=U_STM32L412CBU6
