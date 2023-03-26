@@ -1,0 +1,22 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [OBDH_Ed02.PrjPcb]
+   Generated File[OBDH_Ed02.GTO]
+   Generated File[OBDH_Ed02.GTP]
+   Generated File[OBDH_Ed02.GTS]
+   Generated File[OBDH_Ed02.GTL]
+   Generated File[OBDH_Ed02.G1]
+   Generated File[OBDH_Ed02.G2]
+   Generated File[OBDH_Ed02.GBL]
+   Generated File[OBDH_Ed02.GBS]
+   Generated File[OBDH_Ed02.GBP]
+   Generated File[OBDH_Ed02.GBO]
+   Generated File[OBDH_Ed02.GM]
+   Generated File[OBDH_Ed02.EXTREP]
+   Generated File[OBDH_Ed02.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 11:02:22 On 26/03/2023
