@@ -2,25 +2,28 @@
 FileName = OBDH_Ed02.GBR
 AutoAperture = True
 *************************************************************
-Generating : GND
-      File : OBDH_Ed02.G1
+Generating : Board Outline
+      File : OBDH_Ed02.GM1
 
-    Adding Layer      : GND
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : OBDH_Ed02.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
 *************************************************************
 
 *************************************************************
@@ -58,30 +61,7 @@ Used DCodes :
     D41
     D42
     D43
-*************************************************************
-
-*************************************************************
-Generating : POWER
-      File : OBDH_Ed02.G2
-
-    Adding Layer      : POWER
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D84
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
+    D44
 *************************************************************
 
 *************************************************************
@@ -96,9 +76,7 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D53
-    D69
-    D70
+    D55
     D71
     D72
     D73
@@ -107,130 +85,8 @@ Used DCodes :
     D76
     D77
     D78
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : OBDH_Ed02.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D14
-    D15
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D65
-    D66
     D79
     D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : OBDH_Ed02.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : OBDH_Ed02.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D79
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : OBDH_Ed02.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : OBDH_Ed02.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D19
-    D97
 *************************************************************
 
 *************************************************************
@@ -245,7 +101,6 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D44
     D45
     D46
     D47
@@ -280,6 +135,227 @@ Used DCodes :
     D76
     D77
     D78
+    D79
+    D80
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : OBDH_Ed02.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D19
+    D100
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : OBDH_Ed02.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : OBDH_Ed02.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D67
+    D68
+    D81
+    D82
+    D83
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : OBDH_Ed02.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D81
+    D84
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+*************************************************************
+
+*************************************************************
+Generating : POWER
+      File : OBDH_Ed02.G2
+
+    Adding Layer      : POWER
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D87
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : OBDH_Ed02.G1
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : OBDH_Ed02.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D67
+    D68
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : OBDH_Ed02.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D15
+    D17
+    D101
 *************************************************************
 
 *************************************************************
@@ -288,6 +364,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D98
+    D102
 *************************************************************
 

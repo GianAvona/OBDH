@@ -1,26 +1,15 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 11:14:36 On 26/03/2023
-
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of PCB Document [OBDH_Ed02.PcbDoc]
-   Generated File[GERBER_OBDH_Ed02_2023-03-26.GTO]
-   Generated File[GERBER_OBDH_Ed02_2023-03-26.GTP]
-   Generated File[GERBER_OBDH_Ed02_2023-03-26.GTS]
-   Generated File[GERBER_OBDH_Ed02_2023-03-26.GTL]
-   Generated File[GERBER_OBDH_Ed02_2023-03-26.G1]
-   Generated File[GERBER_OBDH_Ed02_2023-03-26.G2]
-   Generated File[GERBER_OBDH_Ed02_2023-03-26.GBL]
-   Generated File[GERBER_OBDH_Ed02_2023-03-26.GBS]
-   Generated File[GERBER_OBDH_Ed02_2023-03-26.GBP]
-   Generated File[GERBER_OBDH_Ed02_2023-03-26.GBO]
-   Generated File[GERBER_OBDH_Ed02_2023-03-26.GM]
-   Generated File[GERBER_OBDH_Ed02_2023-03-26.EXTREP]
-   Generated File[GERBER_OBDH_Ed02_2023-03-26.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [OBDH_Ed02.PcbDoc]
+   Generated File[GERBER_OBDH_Ed02_2023-03-29-RoundHoles.TXT]
+   Generated File[GERBER_OBDH_Ed02_2023-03-29-SquareHoles.TXT]
+   Generated File[GERBER_OBDH_Ed02_2023-03-29-SlotHoles.TXT]
+   Generated File[GERBER_OBDH_Ed02_2023-03-29-RectHoles.TXT]
+   Generated File[GERBER_OBDH_Ed02_2023-03-29.LDP]
+   Generated File[GERBER_OBDH_Ed02_2023-03-29.DRR]
 
 
-Files Generated   : 13
+Files Generated   : 6
 Documents Printed : 0
 
-Finished Output Generation At 11:14:37 On 26/03/2023
+Finished Output Generation At 13:17:11 On 29/03/2023
