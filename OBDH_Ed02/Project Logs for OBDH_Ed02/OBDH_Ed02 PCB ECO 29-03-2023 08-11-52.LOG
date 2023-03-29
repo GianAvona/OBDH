@@ -1,0 +1,14 @@
+Change component parameters: Designator = "U4" ("U4"); Footprint = "QLP-4X4"; UniqueID = "\BBXEKWAF\FWPYKAYQ" ("\BBXEKWAF\FWPYKAYQ")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Origem"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Valor"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U4-21
+Added Room: Name=U_CC1101RGPR
+Added Room: Name=U_INTERFACE_EXT
+Added Room: Name=U_KH-TYPE-C-16P
+Added Room: Name=U_LSM6DSOTR
+Added Room: Name=U_ST1S40IDR
+Added Room: Name=U_STM32L412CBU6
