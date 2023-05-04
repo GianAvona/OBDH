@@ -1,0 +1,15 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [OBDH_Ed02.PcbDoc]
+   Generated File[GERBER_OBDH_Ed02_2023-03-29-RoundHoles.TXT]
+   Generated File[GERBER_OBDH_Ed02_2023-03-29-SquareHoles.TXT]
+   Generated File[GERBER_OBDH_Ed02_2023-03-29-SlotHoles.TXT]
+   Generated File[GERBER_OBDH_Ed02_2023-03-29-RectHoles.TXT]
+   Generated File[GERBER_OBDH_Ed02_2023-03-29.LDP]
+   Generated File[GERBER_OBDH_Ed02_2023-03-29.DRR]
+
+
+Files Generated   : 6
+Documents Printed : 0
+
+Finished Output Generation At 13:17:11 On 29/03/2023

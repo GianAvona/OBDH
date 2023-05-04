@@ -1,0 +1,13 @@
+Added Component: Designator=J2(USB-111HF-B-CU)
+Added Pin To Net: NetName=+VIN Pin=J2-1
+Added Pin To Net: NetName=USB_D_N Pin=J2-2
+Added Pin To Net: NetName=USB_D_P Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-5
+Add Pin To Net: Unknown Pin: Pin TP20-1
+Added Member To Class: ClassName=U_KH-TYPE-C-16P Member=Component J2 USB-111HF-B-CU
+Added Room: Name=U_CC1101RGPR
+Added Room: Name=U_INTERFACE_EXT
+Added Room: Name=U_KH-TYPE-C-16P
+Added Room: Name=U_LSM6DSOTR
+Added Room: Name=U_ST1S40IDR
+Added Room: Name=U_STM32L412CBU6
