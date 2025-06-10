@@ -1,4 +1,4 @@
 # OBDH
-Desenvolvimento do computador de bordo e controle Inercial
+On Board Data Handling (OBDH) and Inertial Measurement Unit (IMU) Development
 
-'Arquivo destinado ao desenvolvimento da parte eletrônica e software embarcado do projeto de um computador de bordo, com unidade de controle inercial'
+'File intended for the development of the electronic part and embedded software of the project of an on-board computer, with inertial control unit'
